@@ -57,7 +57,7 @@ com.catalog
 
 ### Run
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SviatoslavBeiar/REST-API-for-a-product-catalog-management-system.git
 cd product-catalog
 mvn spring-boot:run
 ```
